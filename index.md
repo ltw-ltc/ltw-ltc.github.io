@@ -10,7 +10,7 @@ Welcome to my website! We are currently under construction. Much of what is foun
 Projects I have thoroughly enjoyed
 
 - The design of the matching network for a [Vivaldi Antenna](/Project/VivaldiAntenna.md)
-- A geometrical determination of a [multi-stage folded-cascode amplifier]
+- A geometrical determination of a [multi-stage folded-cascode amplifier](/Project/FoldedCascode.md)
 - My SDP where my team was in the midst of building a revolutionary version of 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
