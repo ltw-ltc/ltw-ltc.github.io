@@ -3,10 +3,6 @@
 Welcome to my website! We are currently under construction. Much of what is found on my [LinkedIn](https://www.linkedin.com/in/liam-weston-ee/) will be followed up on this website a bit more indepth. 
 
 ### Projects
-
-[VivaldiMatchingNetworkDesign](/Project/VivaldiAntenna.md)
-
-
 Projects I have thoroughly enjoyed
 
 - The design of the matching network for a [Vivaldi Antenna](/Project/VivaldiAntenna.md)
