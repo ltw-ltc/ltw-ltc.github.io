@@ -7,12 +7,11 @@ Welcome to my website! We are currently under construction. Much of what is foun
 
 ### Projects 
 
-Projects for I have thoroughly enjoyed
+Projects I have thoroughly enjoyed
 
 - The design of the a matching network for a Vivaldi Antenna
--
-- scoring a free-throw in the Boston Garden 
-- hiking in Big Sur National Park 
+- A geometrical determination of a multi-stage folded-cascode amplifier
+- My SDP where my team was in the midst of building a revolutionary 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
