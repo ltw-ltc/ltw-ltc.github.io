@@ -2,7 +2,7 @@
 
 Welcome to my website! We are currently under construction. Much of what is found on my [LinkedIn](https://www.linkedin.com/in/liam-weston-ee/) will be followed up on this website a bit more indepth. 
 
-[VivaldiMatchingNetworkDesign](https://github.com/ltw-ltc/VivaldiMatchingNetworkDesign) {: .btn .btn-purple .mr-2 }
+[VivaldiMatchingNetworkDesign](https://github.com/ltw-ltc/VivaldiMatchingNetworkDesign/blob/master/index.md) {: .btn .btn-purple .mr-2 }
 
 
 ### Projects 
