@@ -1,4 +1,4 @@
-## Liam Weston Engineer Extraordinaire
+## Liam Weston - Engineer Extraordinaire
 
 Welcome to my website! We are currently under construction. Much of what is found on my [LinkedIn](https://www.linkedin.com/in/liam-weston-ee/) will be followed up on this website a bit more indepth. 
 
@@ -9,16 +9,16 @@ Welcome to my website! We are currently under construction. Much of what is foun
 
 Projects I have thoroughly enjoyed
 
-- The design of the a matching network for a Vivaldi Antenna
+- The design of the matching network for a Vivaldi Antenna
 - A geometrical determination of a multi-stage folded-cascode amplifier
-- My SDP where my team was in the midst of building a revolutionary 
+- My SDP where my team was in the midst of building a revolutionary version of 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+My plans for this site include
 
-# Header 1
+# Embed Falstad interactive circuit simulator in my design 
 ## Header 2
 ### Header 3
 
