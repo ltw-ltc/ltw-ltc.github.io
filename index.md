@@ -1,10 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ltw-ltc/ltw-ltc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 Welcome to my website! We are currently under construction. Much of what is found on my [LinkedIn](https://www.linkedin.com/in/liam-weston-ee/) will be followed up on this website a bit more indepth. 
+
+
 
 
 ### Markdown
