@@ -5,7 +5,14 @@ Welcome to my website! We are currently under construction. Much of what is foun
 
 
 
-### Gang 
+### Biography
+
+Life highlights include:
+
+- batting in 5 RBI's in my little league championship game 
+- traveling through 9 countries in the EU via train and foot 
+- scoring a free-throw in the Boston Garden 
+- hiking in Big Sur National Park 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
