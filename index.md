@@ -11,7 +11,7 @@ Projects I have thoroughly enjoyed
 
 - The design of the matching network for a [Vivaldi Antenna](/Project/VivaldiAntenna.md)
 - A geometrical determination of a [multi-stage folded-cascode amplifier](/Project/FoldedCascode.md)
-- My SDP where my team was in the midst of building a revolutionary version of 
+- My SDP where my team was in the midst of building a revolutionary version of [Acoustic based Battleship](http://www.ecs.umass.edu/ece/sdp/sdp20/team05/) intended to appeal to college students 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
