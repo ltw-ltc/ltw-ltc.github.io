@@ -2,15 +2,15 @@
 
 Welcome to my website! We are currently under construction. Much of what is found on my [LinkedIn](https://www.linkedin.com/in/liam-weston-ee/) will be followed up on this website a bit more indepth. 
 
+### Projects
+
 [VivaldiMatchingNetworkDesign](/Project/VivaldiAntenna.md)
 
 
-### Projects 
-
 Projects I have thoroughly enjoyed
 
-- The design of the matching network for a Vivaldi Antenna
-- A geometrical determination of a multi-stage folded-cascode amplifier
+- The design of the matching network for a [Vivaldi Antenna](/Project/VivaldiAntenna.md)
+- A geometrical determination of a [multi-stage folded-cascode amplifier]
 - My SDP where my team was in the midst of building a revolutionary version of 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
