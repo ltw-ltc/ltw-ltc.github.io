@@ -5,12 +5,12 @@ Welcome to my website! We are currently under construction. Much of what is foun
 
 
 
-### Biography
+### Projects 
 
-Life highlights include:
+Projects for I have thoroughly enjoyed
 
-- batting in 5 RBI's in my little league championship game 
-- traveling through 9 countries in the EU via train and foot 
+- The design of the a matching network for a Vivaldi Antenna
+-
 - scoring a free-throw in the Boston Garden 
 - hiking in Big Sur National Park 
 
