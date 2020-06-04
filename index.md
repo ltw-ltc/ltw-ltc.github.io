@@ -2,6 +2,27 @@
 
 Welcome to my website! We are currently under construction. Much of what is found on my [LinkedIn](https://www.linkedin.com/in/liam-weston-ee/) will be followed up on this website a bit more indepth. 
 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+<button class="btn js-toggle-dark-mode">~toggle Night/Day~</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode')
+const cssFile = document.querySelector('[rel="stylesheet"]')
+const originalCssRef = cssFile.getAttribute('href')
+const darkModeCssRef = originalCssRef.replace('just-the-docs.css', 'dark-mode-preview.css')
+
+cssFile.setAttribute('href',  darkModeCssRef)
+
+addEvent(toggleDarkMode, 'click', function(){
+  if (cssFile.getAttribute('href') === originalCssRef) {
+    cssFile.setAttribute('href',  darkModeCssRef)
+  } else {
+    cssFile.setAttribute('href', originalCssRef)
+  }
+})
+</script>
+
 ### Projects
 Projects I have thoroughly enjoyed
 
