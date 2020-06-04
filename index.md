@@ -2,6 +2,14 @@
 
 Welcome to my website! We are currently under construction. Much of what is found on my [LinkedIn](https://www.linkedin.com/in/liam-weston-ee/) will be followed up on this website a bit more indepth. 
 
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Liam Weston -- online "
+permalink: /
+---
+
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 <button class="btn js-toggle-dark-mode">~toggle Night/Day~</button>
