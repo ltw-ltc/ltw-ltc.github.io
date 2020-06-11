@@ -14,27 +14,6 @@ This site is written in markdown, the following contains formatted templates for
 
 My plans for this site include
 
-# Embed Falstad interactive circuit simulator in my design 
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-More Markdown tutorials [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-[repository settings](https://github.com/ltw-ltc/ltw-ltc.github.io/settings)
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Embed Falstad circuit simulator to explain projects I have completed
+- Implement view count
+- blog 
