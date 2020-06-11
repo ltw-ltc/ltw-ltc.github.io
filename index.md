@@ -15,7 +15,7 @@ This site is written in markdown, the following contains formatted templates for
 My plans for this site include
 
 # Embed Falstad interactive circuit simulator in my design 
-## 
+## Header 2
 ### Header 3
 
 - Bulleted
