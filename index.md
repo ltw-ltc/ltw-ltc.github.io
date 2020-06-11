@@ -6,7 +6,7 @@ description: "Liam Weston"
 permalink: /
 ---
 
-## Liam Weston - Engineer Extraordinaire
+## Welcome
 
 Welcome to my website! We are currently under construction. Much of what is found on my [LinkedIn](https://www.linkedin.com/in/liam-weston-ee/) will be followed up on this website a bit more indepth. 
 
