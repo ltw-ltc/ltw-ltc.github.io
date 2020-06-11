@@ -10,13 +10,12 @@ Projects I have thoroughly enjoyed
 - A geometrical determination of a [Multi-stage folded-cascode amplifier](/Project/FoldedCascode.md)
 - My SDP where my team was in the midst of building a revolutionary version of [Acoustic based Battleship](http://www.ecs.umass.edu/ece/sdp/sdp20/team05/) intended to appeal to college students 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This site is written in markdown, the following contains formatted templates for various useful editing tools
 
-```markdown
 My plans for this site include
 
 # Embed Falstad interactive circuit simulator in my design 
-## Header 2
+## 
 ### Header 3
 
 - Bulleted
@@ -30,11 +29,11 @@ My plans for this site include
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+More Markdown tutorials [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ltw-ltc/ltw-ltc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[repository settings](https://github.com/ltw-ltc/ltw-ltc.github.io/settings)
 
 ### Support or Contact
 
