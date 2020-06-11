@@ -17,3 +17,5 @@ My plans for this site include
 - Embed Falstad circuit simulator to explain projects I have completed
 - Implement view count
 - blog 
+
+[Code of Conduct](CODE_OF_CONDUCT.md)
