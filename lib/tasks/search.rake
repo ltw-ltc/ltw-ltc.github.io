@@ -25,3 +25,4 @@ namespace :search do
     puts 'Done.'
   end
 end
+
