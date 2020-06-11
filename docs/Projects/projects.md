@@ -9,5 +9,3 @@ permalink: /docs/ui-components
 
 This will lead to various pages that explain mah projects boi 
 
-
-[capstone](/Capstone.md)
