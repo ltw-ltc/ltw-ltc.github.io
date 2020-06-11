@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Typography
+title: Capstone
 parent: Projects
 nav_order: 1
 ---
