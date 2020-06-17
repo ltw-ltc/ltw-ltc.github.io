@@ -6,4 +6,4 @@ nav_order: 2
 has_children: true
 ---
 
-We gonna dive into some microwaves baby
+[Lab Studies](/Lab Studies.md)
