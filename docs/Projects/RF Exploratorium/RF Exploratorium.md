@@ -6,4 +6,4 @@ nav_order: 2
 has_children: true
 ---
 
-[Lab Studies](/Lab Studies.md)
+[Lab Studies](ltw-ltc.github.io/docs/Projects/RF Exploratorium/Lab Studies.md)
